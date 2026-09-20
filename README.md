@@ -1,4 +1,4 @@
-# theo-vect 
+# graph_disc
 
 #### Article:   <small><strong>A logarithmic-quadratic algorithm for vector optimization</strong>  <a href=""><img src="https://cdn.simpleicons.org/doi/2dd4bf" alt="DOI" height="14" align="absmiddle"></a>  <a href=""><img src="https://cdn.simpleicons.org/zenodo/2dd4bf" alt="Zenodo" height="14" align="absmiddle"></a>  <a href="https://drive.google.com/drive/folders/10ie-yEHf3BjvKvFWveSlF1-Qlhto9Jqj?usp=sharing"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Drive" height="14" align="absmiddle"></a></small>
 
