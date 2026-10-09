@@ -1,6 +1,6 @@
-# graph_disc
+# Ecnn Quota
 
-#### Article:   <small><strong>Orbit-compressed prefix-quota matchings in chain graphs</strong>  <a href=""><img src="https://cdn.simpleicons.org/doi/2dd4bf" alt="DOI" height="14" align="absmiddle"></a>  <a href=""><img src="https://cdn.simpleicons.org/zenodo/2dd4bf" alt="Zenodo" height="14" align="absmiddle"></a>  <a href="https://drive.google.com/drive/folders/1HGzCo9WKmTU7dlOZhaCHo8pxqkh0ZxLk?usp=sharing"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Drive" height="14" align="absmiddle"></a></small>
+#### Article:   <small><strong>Interval-quota matchings in chain graphs</strong>  <a href=""><img src="https://cdn.simpleicons.org/doi/2dd4bf" alt="DOI" height="14" align="absmiddle"></a>  <a href=""><img src="https://cdn.simpleicons.org/zenodo/2dd4bf" alt="Zenodo" height="14" align="absmiddle"></a>  <a href="https://drive.google.com/drive/folders/1HGzCo9WKmTU7dlOZhaCHo8pxqkh0ZxLk?usp=sharing"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Drive" height="14" align="absmiddle"></a></small>
 
 We study exact quota-constrained matchings in Ferrers-ordered chain graphs with laminar, prefix, and interval quotas. We give an integral-flow formulation for laminar quotas, exact demand-capacity tests and a canonical $O(n+m)$ construction for prefix quotas, and a shortest-path envelope for one-interval quotas. Feasibility is NP-complete when every quota set has interval number at most two, even with universal neighborhoods, unit quotas, and two-element sets.
 
